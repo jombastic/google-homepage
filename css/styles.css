@@ -11,3 +11,19 @@
   display: inline;
   padding-right: 10px;
 }
+
+#center-search {
+  margin: 90px 0px;
+  padding: 80px;
+  text-align: center;
+  line-height: 50px;
+}
+
+#center-search img {
+  padding-bottom: 20px;
+  padding-left: 9px;
+}
+
+#center-search div.row {
+  margin-left: 30px;
+}
