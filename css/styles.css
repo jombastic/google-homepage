@@ -1,15 +1,23 @@
-#nav {
-  margin: 20px 0px;
+.container-fluid {
   padding: 0px;
 }
 
-#nav ul {
+.nav {
+  padding: 20px;
+  margin: 0px
+}
+
+.nav ul {
   padding: 0px;
 }
 
-#nav ul li {
+.nav ul li {
   display: inline;
   padding-right: 10px;
+}
+
+.nav a {
+  color: #5e5e5e;
 }
 
 #center-search {
@@ -26,4 +34,15 @@
 
 #center-search div.row {
   margin-left: 30px;
+}
+
+.footer {
+  background-color: #e5e5e5;
+  border: 0.5px solid #d6d6d6;
+  padding: 7.5px 20px;
+}
+
+.footer > p {
+  color: #828282;
+  padding-left: 15px;
 }
