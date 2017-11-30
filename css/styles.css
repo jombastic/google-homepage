@@ -1,0 +1,13 @@
+#nav {
+  margin: 20px 0px;
+  padding: 0px;
+}
+
+#nav ul {
+  padding: 0px;
+}
+
+#nav ul li {
+  display: inline;
+  padding-right: 10px;
+}
