@@ -21,8 +21,8 @@
 }
 
 #center-search {
-  margin: 90px 0px;
-  padding: 80px;
+  margin: 170px 0 180px 0;
+  /*padding: 80px;*/
   text-align: center;
   line-height: 50px;
 }
